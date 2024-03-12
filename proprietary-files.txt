@@ -1,6 +1,6 @@
 # All unpinned blobs below are extracted from amber V14.0.6.0.TMOMIXM
 
-product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk
+product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk|3f1b0fe76845681fcb0654a0804f080a75101925
 system/etc/public.libraries-xiaomi.txt
 system/lib64/libcamera_algoup_jni.xiaomi.so
 system/lib64/libcamera_mianode_jni.xiaomi.so
